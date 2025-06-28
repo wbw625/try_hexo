@@ -2,7 +2,7 @@
 cover:
 
   title: WBW's Blog
-  subtitle: Personal Blog of Bowen Wang
+  subtitle: Personal Website of Bowen Wang
   features:
     - name: GitHub
       icon: #
@@ -16,7 +16,22 @@ cover:
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: https://github.com/wbw625/try_hexo
-############################### Cover ############################### > end
+
+
+############################### Sidebar ############################### > start
+sidebar:
+  widget_library:
+    blogger:
+      social:
+        - icon: fa-solid fa-rss
+          url: tel:13915237083
+        - icon: fa-solid fa-envelope
+          url: mailto:625114674@sjtu.edu.cn
+        - icon: fab fa-github
+          url: https://github.com/wbw625/
+        - icon: fa-solid fa-headphones-alt
+          url: https://space.bilibili.com/1683525074
+
 
 plugins:
   parallax:
