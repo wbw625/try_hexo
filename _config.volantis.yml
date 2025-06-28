@@ -22,6 +22,7 @@ cover:
 sidebar:
   widget_library:
     blogger:
+      url: /
       social:
         - icon: fa-solid fa-rss
           url: tel:13915237083
