@@ -1,38 +1,29 @@
 ---
-title: Hello World
+title: Hello!
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## Hi there! 
 
-### Create a new post
+My name is Bowen Wang, an undergraduate student from **SJTU** majoring in **Information Security**. 
 
-``` bash
-$ hexo new "My New Post"
-```
+I’m currently working on **AI Security**. 
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## Languages & Tools: 
 
-### Run server
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,html,css,js" />
+  </a>
+</p>
 
-``` bash
-$ hexo server
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,vim,git,mysql,nginx,react,latex" />
+  </a>
+</p>
 
-More info: [Server](https://hexo.io/docs/server.html)
+## Github Profile: 
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+<p align="center">
+<a href="https://github.com/wbw625/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Github" /></a>
+</p>

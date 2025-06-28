@@ -1,0 +1,23 @@
+############################### Cover ############################### > start
+cover:
+
+  title: WBW's Blog
+  subtitle: Personal Blog of Bowen Wang
+  features:
+    - name: GitHub
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
+      url: https://github.com/wbw625/
+    - name: 博客
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      url: /archives/
+    - name: 源码
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      url: https://github.com/wbw625/try_hexo
+############################### Cover ############################### > end
+
+plugins:
+  parallax:
+    enable: true

@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: wbw
-subtitle: A Hexo Blog
-description: wbw's blog
+title: WBW's Blog
+subtitle: Based on Hexo
+description: The Blog of Bowen Wang
 keywords:
-author: wbw
+author: Bowen Wang
 language: en
 timezone: ''
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: volantis
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
