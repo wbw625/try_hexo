@@ -108,6 +108,39 @@ article:
         url: https://github.com/wbw625/
 
 
+comments:
+  title: <i class='fa-solid fa-comments'></i> 评论
+  subtitle:
+  service: giscus
+
+  giscus:
+    # 以下配置按照 yml 格式增删填写即可
+    # repo: xxx/xxx
+    # repo-id: xxx
+    # category: xxx
+    # category-id: xxx
+    # mapping: "pathname"
+    # reactions-enabled: "1"
+    # emit-metadata: "0"
+    # lang: "zh-CN"
+    # 以上配置按照 yml 格式增删填写即可
+
+    repo: wbw625/wbw625.github.io
+    repo_id: R_kgDOMgbtnA
+    category: Announcements
+    category_id: DIC_kwDOMgbtnM4CsL-s
+    mapping: pathname
+    reactions_enabled: 1
+    emit_metadata: 0
+    lang: zh-CN
+
+
+    theme:
+      light: "light" # https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/light.css
+      dark: "dark" # https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@master/css/giscus/dark.css
+
+
+
 plugins:
   parallax:
     enable: true
